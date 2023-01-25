@@ -1,10 +1,11 @@
-# 10fastfingers-bot
+<h1> 10fastfingers-bot</h1>
 A script that automatically does the typing test 10fastfingers.com.
 
-##Requirements : 
+
+<h2> Requirements :</h2>
 <ul>
-  <il>Python3</il>
-  <il>selenuim</il>
-  <il>firefox</il>
+  <li>Python3</li>
+  <li>selenuim</li>
+  <li>firefox</li>
 
 </ul>
